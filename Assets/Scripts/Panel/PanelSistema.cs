@@ -1,6 +1,7 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
-public class WindowController : MonoBehaviour
+public class PanelSistema : MonoBehaviour
 {
     [Header("Enlaces - Costado Izquierdo (3)")]
     [SerializeField] private string linkIzq1 = "https://www.udgvirtual.udg.mx/";
@@ -11,6 +12,9 @@ public class WindowController : MonoBehaviour
     [SerializeField] private string linkDer1 = "https://www.febucci.com/2018/10/unity-ui-tutorial/";
     [SerializeField] private string linkDer2 = "https://docs.unity3d.com/";
     [SerializeField] private string linkDer3 = "https://github.com/";
+
+    [Header("Escena del escenario de juego")]
+    [SerializeField] private string nombreEscenaJuego = "level1";
 
     // ---------- Enlaces lado izquierdo ----------
     public void AbrirLinkIzq1() => Application.OpenURL(linkIzq1);
@@ -26,7 +30,6 @@ public class WindowController : MonoBehaviour
     public void OnBoton1Click()
     {
         Debug.Log("Botón 1 presionado");
-        // Aquí puedes poner la acción real: cambiar de panel, mostrar info, etc.
     }
 
     public void OnBoton2Click()
@@ -34,8 +37,9 @@ public class WindowController : MonoBehaviour
         Debug.Log("Botón 2 presionado");
     }
 
+    // Botón "Jugar" — carga la escena level1
     public void OnBoton3Click()
     {
-        Debug.Log("Botón 3 presionado");
+        SceneManager.LoadScene(nombreEscenaJuego);
     }
 }

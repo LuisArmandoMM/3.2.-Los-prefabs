@@ -153,9 +153,9 @@ RectTransform:
   - {fileID: 734954203}
   m_Father: {fileID: 1975482885}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -735, y: -124}
+  m_AnchorMin: {x: 0, y: 0.5}
+  m_AnchorMax: {x: 0, y: 0.5}
+  m_AnchoredPosition: {x: 328, y: -124}
   m_SizeDelta: {x: 550.96, y: 149.8419}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &96452353
@@ -287,6 +287,7 @@ MonoBehaviour:
   linkDer1: https://www.febucci.com/2018/10/unity-ui-tutorial/
   linkDer2: https://docs.unity3d.com/
   linkDer3: https://github.com/
+  nombreEscenaJuego: level1
 --- !u!4 &227506700
 Transform:
   m_ObjectHideFlags: 0
@@ -695,9 +696,9 @@ RectTransform:
   - {fileID: 305530454}
   m_Father: {fileID: 1975482885}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -735, y: 78.821}
+  m_AnchorMin: {x: 0, y: 0.5}
+  m_AnchorMax: {x: 0, y: 0.5}
+  m_AnchoredPosition: {x: 328, y: 78.821}
   m_SizeDelta: {x: 550.96, y: 157.6422}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &708376013
@@ -718,6 +719,7 @@ MonoBehaviour:
   linkDer1: https://www.febucci.com/2018/10/unity-ui-tutorial/
   linkDer2: https://docs.unity3d.com/
   linkDer3: https://github.com/
+  nombreEscenaJuego: level1
 --- !u!114 &708376014
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -763,8 +765,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 227506699}
-        m_TargetAssemblyTypeName: WindowController, Assembly-CSharp
-        m_MethodName: AbrirLinkDer1
+        m_TargetAssemblyTypeName: PanelSistema, Assembly-CSharp
+        m_MethodName: OnBoton3Click
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -1060,10 +1062,10 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 1975482885}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 822, y: -406.68997}
-  m_SizeDelta: {x: 75.8993, y: 118.11}
+  m_AnchorMin: {x: 1, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: -241, y: -406.68997}
+  m_SizeDelta: {x: 75.89929, y: -857.89}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &856048727
 MonoBehaviour:
@@ -1237,10 +1239,10 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 1975482885}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 682, y: -406.68997}
-  m_SizeDelta: {x: 100.0002, y: 118.11}
+  m_AnchorMin: {x: 1, y: 0}
+  m_AnchorMax: {x: 1, y: 0}
+  m_AnchoredPosition: {x: -381, y: 81.31003}
+  m_SizeDelta: {x: 100.000244, y: 118.109985}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1140758799
 MonoBehaviour:
@@ -1312,10 +1314,10 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 1975482885}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -735, y: -320}
-  m_SizeDelta: {x: -1573.169, y: -826.3718}
+  m_AnchorMin: {x: 0, y: 0.5}
+  m_AnchorMax: {x: 0, y: 0.5}
+  m_AnchoredPosition: {x: 328, y: -320}
+  m_SizeDelta: {x: 552.83105, y: 149.62817}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1215033005
 MonoBehaviour:
@@ -1664,10 +1666,10 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 1975482885}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 959, y: -406.68997}
-  m_SizeDelta: {x: 107.8003, y: 102.7271}
+  m_AnchorMin: {x: 1, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: -104, y: -406.68997}
+  m_SizeDelta: {x: 107.80029, y: -873.2729}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2119403052
 MonoBehaviour:
@@ -1739,9 +1741,9 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 1975482885}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -528.95, y: 325}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 534.0499, y: -163}
   m_SizeDelta: {x: 1223.7, y: 531.8807}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2137667260
