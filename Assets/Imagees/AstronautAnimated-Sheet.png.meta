@@ -1,0 +1,1053 @@
+fileFormatVersion: 2
+guid: eb104cf300493fb4280ea8969dabbd37
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1418322964522374516
+    second: AstronautAnimated-Sheet_0
+  - first:
+      213: -4950293544703792477
+    second: AstronautAnimated-Sheet_1
+  - first:
+      213: 8719996116399053149
+    second: AstronautAnimated-Sheet_2
+  - first:
+      213: 7321707603686011152
+    second: AstronautAnimated-Sheet_3
+  - first:
+      213: -4372240924400975645
+    second: AstronautAnimated-Sheet_4
+  - first:
+      213: -4328733451413971014
+    second: AstronautAnimated-Sheet_5
+  - first:
+      213: 4496483610344541959
+    second: AstronautAnimated-Sheet_6
+  - first:
+      213: 7161397963212741531
+    second: AstronautAnimated-Sheet_7
+  - first:
+      213: -4697587773152203325
+    second: AstronautAnimated-Sheet_8
+  - first:
+      213: 5624526392394604378
+    second: AstronautAnimated-Sheet_9
+  - first:
+      213: 4994830342633511097
+    second: AstronautAnimated-Sheet_10
+  - first:
+      213: 9201738004299936594
+    second: AstronautAnimated-Sheet_11
+  - first:
+      213: -6502673142371496802
+    second: AstronautAnimated-Sheet_12
+  - first:
+      213: -5962575788055387074
+    second: AstronautAnimated-Sheet_13
+  - first:
+      213: 5243472409048217496
+    second: AstronautAnimated-Sheet_14
+  - first:
+      213: 9030938000578354256
+    second: AstronautAnimated-Sheet_15
+  - first:
+      213: 1916957199123033029
+    second: AstronautAnimated-Sheet_16
+  - first:
+      213: -4876694398905732717
+    second: AstronautAnimated-Sheet_17
+  - first:
+      213: 4122873431763587550
+    second: AstronautAnimated-Sheet_18
+  - first:
+      213: -5811515051140089837
+    second: AstronautAnimated-Sheet_19
+  - first:
+      213: -7272746615839545348
+    second: AstronautAnimated-Sheet_20
+  - first:
+      213: -5663422366402926701
+    second: AstronautAnimated-Sheet_21
+  - first:
+      213: -2936668645964348604
+    second: AstronautAnimated-Sheet_22
+  - first:
+      213: -57566999549157418
+    second: AstronautAnimated-Sheet_23
+  - first:
+      213: -4172434547272489014
+    second: AstronautAnimated-Sheet_24
+  - first:
+      213: 3793798603067616545
+    second: AstronautAnimated-Sheet_25
+  - first:
+      213: 1291046357523405257
+    second: AstronautAnimated-Sheet_26
+  - first:
+      213: -4589836224534009502
+    second: AstronautAnimated-Sheet_27
+  - first:
+      213: -4818275200195821643
+    second: AstronautAnimated-Sheet_28
+  - first:
+      213: -7974318195499384850
+    second: AstronautAnimated-Sheet_29
+  - first:
+      213: 162221681547500129
+    second: AstronautAnimated-Sheet_30
+  - first:
+      213: -7093552296462991883
+    second: AstronautAnimated-Sheet_31
+  - first:
+      213: -5145121806398202875
+    second: AstronautAnimated-Sheet_32
+  - first:
+      213: 7836979746504056335
+    second: AstronautAnimated-Sheet_33
+  - first:
+      213: -4484228479515492260
+    second: AstronautAnimated-Sheet_34
+  - first:
+      213: -8423429393253242735
+    second: AstronautAnimated-Sheet_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ADASDASDSAD
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 460
+        width: 47
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a6dd247ca115ce0800000000000000
+      internalID: -1418322964522374516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AstronautAnimated-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 460
+        width: 47
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e33896eacb6f484b96fd4db2a29eeb2
+      internalID: -1283960657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AstronautAnimated-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 460
+        width: 47
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9158970ae0e8bfa48bf322f474f33de4
+      internalID: 152213452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AstronautAnimated-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 460
+        width: 47
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a594d1fe988fd142af9af4e40e7a6e2
+      internalID: 348801229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AstronautAnimated-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 460
+        width: 47
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86dce2a335dcae042a6cf52aecccbf22
+      internalID: -509438185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AstronautAnimated-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 460
+        width: 47
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf90e2c3561c62c45b2606d583558cbd
+      internalID: 183849283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AstronautAnimated-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 370
+        width: 47
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1bd1709673b8ff4b99117b25731e214
+      internalID: 1552058358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AstronautAnimated-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 370
+        width: 47
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5106154061a356848a91e46b66ff9156
+      internalID: -1334086223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AstronautAnimated-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 370
+        width: 48
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c57748dc26d8d0488caa3291ab61e94
+      internalID: 726850376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AstronautAnimated-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 370
+        width: 46
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e615dfffc04b44c80b5d5e4286e2c4
+      internalID: 523940055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AstronautAnimated-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 370
+        width: 46
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d80a57cd7aac274a8ba665dc58e4f05
+      internalID: -1153957997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AstronautAnimated-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 370
+        width: 56
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ee16135014ed84babf852b5050fc9f
+      internalID: 627948173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AstronautAnimated-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 280
+        width: 56
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04be20989be819a4688d9dc53c26ec7f
+      internalID: -315222012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AstronautAnimated-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 280
+        width: 56
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f941cd8b6ecf3a499a850c0c03bdc26
+      internalID: -773322429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AstronautAnimated-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 280
+        width: 56
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc741293b4b48624e96bc3114de2794c
+      internalID: 1297349622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AstronautAnimated-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 280
+        width: 56
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297caea551a4a5142814f2b470799772
+      internalID: -340774342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AstronautAnimated-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 280
+        width: 56
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a5422f767a10d845bc66f5ddd75e654
+      internalID: 907536234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AstronautAnimated-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 280
+        width: 56
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5e156ade67f6b4ba4d882e67924465
+      internalID: 1408916087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AstronautAnimated-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 190
+        width: 55
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d25754e4149fdc4cb241e9d002cdd7e
+      internalID: 1741359157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AstronautAnimated-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 190
+        width: 47
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e6d86373fc42b4180eb88fa1f258de
+      internalID: -649771547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AstronautAnimated-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 190
+        width: 47
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fae5606c00dd5144b982c4ef97b66db
+      internalID: -1209461139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AstronautAnimated-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 190
+        width: 47
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55b5959cdf9cea4a8a2923fb99ae735
+      internalID: 1608156434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AstronautAnimated-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 190
+        width: 47
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf0df852ee20d6489b82dae75fe29f2
+      internalID: 238363034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AstronautAnimated-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 190
+        width: 47
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aebcaa6c4e2438a48be519313e528000
+      internalID: -2112864611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AstronautAnimated-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 100
+        width: 47
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a51ccda4349c0c4bb7b4f5812da6221
+      internalID: 905747818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AstronautAnimated-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 100
+        width: 55
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667e45d3d8b0ed84b80e6e807affd76a
+      internalID: 1605696635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AstronautAnimated-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 100
+        width: 57
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39b2aaf037412a4c9808248c8945aa0
+      internalID: 1496981663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AstronautAnimated-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 107
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8023b131c3983246b890717d525f505
+      internalID: 2069345565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AstronautAnimated-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 104
+        width: 59
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68de718e91b2e640ae5ecf8a4472e16
+      internalID: -1304027195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AstronautAnimated-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 100
+        width: 57
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1107737e89ed147896bbbd00cb0cd5
+      internalID: 109082952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AstronautAnimated-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 12
+        width: 56
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da13a400eae6674e9625f014377ffe2
+      internalID: -1222103929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AstronautAnimated-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 20
+        width: 56
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499edbc710a475e4792ea757c6a6a0f7
+      internalID: -766419534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AstronautAnimated-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 30
+        width: 64
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917b0424429a06d43bcf7ccc2e5650b6
+      internalID: -549127132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AstronautAnimated-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 27
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420987201d0326745a38d73ab4f88f59
+      internalID: 1608759135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AstronautAnimated-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 10
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02eb8ed22eda8f47909c46621a3db6d
+      internalID: 77227476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AstronautAnimated-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 10
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c4ee0b1b78c91d4090ae05ac98ca0b5
+      internalID: -1681091541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: fdb5d4345d6bdb54e9c34be3f2730a23
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ADASDASDSAD: -1418322964522374516
+      AstronautAnimated-Sheet_1: -1283960657
+      AstronautAnimated-Sheet_10: -1153957997
+      AstronautAnimated-Sheet_11: 627948173
+      AstronautAnimated-Sheet_12: -315222012
+      AstronautAnimated-Sheet_13: -773322429
+      AstronautAnimated-Sheet_14: 1297349622
+      AstronautAnimated-Sheet_15: -340774342
+      AstronautAnimated-Sheet_16: 907536234
+      AstronautAnimated-Sheet_17: 1408916087
+      AstronautAnimated-Sheet_18: 1741359157
+      AstronautAnimated-Sheet_19: -649771547
+      AstronautAnimated-Sheet_2: 152213452
+      AstronautAnimated-Sheet_20: -1209461139
+      AstronautAnimated-Sheet_21: 1608156434
+      AstronautAnimated-Sheet_22: 238363034
+      AstronautAnimated-Sheet_23: -2112864611
+      AstronautAnimated-Sheet_24: 905747818
+      AstronautAnimated-Sheet_25: 1605696635
+      AstronautAnimated-Sheet_26: 1496981663
+      AstronautAnimated-Sheet_27: 2069345565
+      AstronautAnimated-Sheet_28: -1304027195
+      AstronautAnimated-Sheet_29: 109082952
+      AstronautAnimated-Sheet_3: 348801229
+      AstronautAnimated-Sheet_30: -1222103929
+      AstronautAnimated-Sheet_31: -766419534
+      AstronautAnimated-Sheet_32: -549127132
+      AstronautAnimated-Sheet_33: 1608759135
+      AstronautAnimated-Sheet_34: 77227476
+      AstronautAnimated-Sheet_35: -1681091541
+      AstronautAnimated-Sheet_4: -509438185
+      AstronautAnimated-Sheet_5: 183849283
+      AstronautAnimated-Sheet_6: 1552058358
+      AstronautAnimated-Sheet_7: -1334086223
+      AstronautAnimated-Sheet_8: 726850376
+      AstronautAnimated-Sheet_9: 523940055
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
